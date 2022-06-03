@@ -1,0 +1,14 @@
+.elementor-172 .elementor-element.elementor-element-483997e{text-align:center;}.elementor-172 .elementor-element.elementor-element-8ed432b .elementor-heading-title{color:#333333;font-family:"Roboto", Sans-serif;font-weight:600;}/* Start custom CSS for html, class: .elementor-element-a0f9ff9 */.breadcrum{
+    position: absolute;
+    top: 50%;
+    left: 5%;
+    transform: translate(0,-50%);
+    color: #7e7e7f;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    font-weight: 800;
+}
+.breadcrum_title,
+.breadcrum_link{
+    color: #fff;
+}/* End custom CSS */
